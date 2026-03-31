@@ -22,10 +22,15 @@ Develop supporting applications using React and Flutter to bridge networking wit
 🌐 Networking (Core Strength)
 
 Routing & Switching
+
 IP Addressing & Subnetting
+
 VLAN & Inter-VLAN Routing
+
 Network Design & Topology Planning
+
 DNS Concepts & Resolution Flow
+
 Cisco Packet Tracer
 
 📂 Key Projects
