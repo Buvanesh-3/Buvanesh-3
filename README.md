@@ -11,13 +11,16 @@ I am a highly motivated technology enthusiast with a strong focus on computer ne
 With a solid foundation in routing, switching, and network design, I continuously work on strengthening my practical skills through hands-on labs and projects. I am particularly passionate about performance-driven systems, especially in areas like DNS and network optimization.
 
 🔧 What I Do
+
 Design and simulate enterprise-grade network topologies
 Build and analyze routing & switching environments (CCNA level)
 Explore DNS resolution mechanisms and performance optimization
 Develop supporting applications using React and Flutter to bridge networking with real-world systems
 
 🛠️ Technical Skills
+
 🌐 Networking (Core Strength)
+
 Routing & Switching
 IP Addressing & Subnetting
 VLAN & Inter-VLAN Routing
@@ -26,6 +29,7 @@ DNS Concepts & Resolution Flow
 Cisco Packet Tracer
 
 📂 Key Projects
+
 🔹 Cisco Packet Tracer Networking Projects
 Designed and implemented network simulations focusing on scalability, redundancy, and efficient traffic flow
 
